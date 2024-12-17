@@ -13,15 +13,15 @@ global.location = "Kenya" //ur location
 
 //new
 global.botname = '𝐁𝐞𝐥𝐥𝐚𝐡 𝐗𝐦𝐝' //ur bot name
-global.ownernumber = '254104245659' //ur owner number
+global.ownernumber = '237693132795' //ur owner number
 global.ownername = '© TENNOMODZ' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
 global.wagc = "https://chat.whatsapp.com/Hs0AwkOaFzbGi5sjicdeTR" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
 global.themeemoji = '🪀'
 global.wm = "GIDDY TENNOR"
 global.botscript = 'https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D' //'https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES' //script link
-global.packname = "BELLAH XMD"
-global.author = "Giddy-Tennor"
+global.packname = "Fun"
+global.author = "AF JOKER"
 global.creator = "254703726139@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["254703726139"] // Premium User
